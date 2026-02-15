@@ -20,6 +20,9 @@ A beautiful dark theme for [ncspot](https://github.com/multi-git/ncspot) - a Spo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/GuilhermeTerriaga/everforest-ncspot.git
+   git clone https://github.com/GuilhermeTerriaga/everforest-ncspot.git 
+   ```
 
-2.  save the theme configuration to: ~/.config/ncspot/config.toml 
+2. Save the theme configuration to: ~/.config/ncspot/config.toml 
+
+3. If you're using ncspot on flatpak, move to: ~/.var/app/io.github.hrkfdn.ncspot/config/ncspot/
