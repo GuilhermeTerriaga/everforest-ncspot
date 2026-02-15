@@ -1,2 +1,25 @@
-# everforest-ncspot
-Everforest ncspot port
+
+# 🌲 Everforest ncspot port
+
+A beautiful dark theme for [ncspot](https://github.com/multi-git/ncspot) - a Spotify client for the terminal. This is a port of the popular [Everforest](https://github.com/sainnhe/everforest) color scheme.
+
+## Features
+
+- 🎨 **Warm, nature-inspired colors** from the Everforest medium palette
+- 🌙 **Easy on the eyes** with carefully chosen contrast ratios
+- 🎵 **Optimized for ncspot** interface elements
+- 📦 **Simple installation** and configuration
+
+## Installation
+
+### Prerequisites
+
+- [ncspot](https://github.com/multi-git/ncspot) installed and configured
+
+### Steps
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/GuilhermeTerriaga/everforest-ncspot.git
+
+2.  save the theme configuration to: ~/.config/ncspot/config.toml 
